@@ -7,6 +7,7 @@ All leetcode problem solve
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/debanganmana/LeetCode/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/debanganmana/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,4 +25,12 @@ All leetcode problem solve
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/debanganmana/LeetCode/tree/master/0002-add-two-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/debanganmana/LeetCode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/debanganmana/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
