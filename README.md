@@ -30,6 +30,7 @@ All leetcode problem solve
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/debanganmana/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/debanganmana/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/debanganmana/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
@@ -39,4 +40,8 @@ All leetcode problem solve
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/debanganmana/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/debanganmana/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
