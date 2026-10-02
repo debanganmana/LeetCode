@@ -9,7 +9,7 @@ public class Solution {
             
             if (currentSum == target) {
                 // Problem requires 1-indexed results
-                return new int[] { left + 1, right + 1 };
+                return new int[] {left + 1, right + 1 };
             } else if (currentSum > target) {
                 // Sum is too large, move the right pointer inward to get a smaller value
                 right--;
