@@ -32,6 +32,7 @@ All leetcode problem solve
 | [0088-merge-sorted-array](https://github.com/debanganmana/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/debanganmana/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/debanganmana/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/debanganmana/LeetCode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -44,4 +45,9 @@ All leetcode problem solve
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/debanganmana/LeetCode/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/debanganmana/LeetCode/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/debanganmana/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
